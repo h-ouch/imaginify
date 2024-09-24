@@ -1,3 +1,4 @@
+/* eslint-disable */
 import mongoose, { Mongoose } from 'mongoose';
 
 //promise用于表示连接 MongoDB 的异步操作。它代表了一个尚未完成的操作
